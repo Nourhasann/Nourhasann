@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Image Aug 18, 2026, 10_18_16 PM.png" alt="Nour Hassan" width="180"/>
+  <img src="assets/ai-banner.png" alt="Nour Hassan - AI & Data Science" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Nour Hassan 👋</h1>
@@ -22,12 +22,12 @@ I'm a **Data Science student at Cairo University** with a strong interest in **A
 
 I enjoy building practical, end-to-end AI solutions that turn data and machine learning concepts into real-world applications.
 
-Currently, I'm focused on expanding my experience in **Computer Vision, NLP, RAG systems, LLM applications, and AI-powered solutions**.
+Currently, I'm focusing on **Computer Vision, NLP, RAG systems, LLM applications, and AI-powered solutions**.
 
 * 🎓 B.Sc. in Computer Science — **Major: Data Science**
 * 🏫 Cairo University — International Branch
 * 📅 Expected Graduation: **2027**
-* 🤖 AI & Machine Learning
+* 🤖 Artificial Intelligence & Machine Learning
 * 👁️ Computer Vision
 * 🧠 NLP & Generative AI
 * 🔎 RAG & LLM Applications
@@ -44,15 +44,16 @@ Currently, I'm focused on expanding my experience in **Computer Vision, NLP, RAG
 
 <br/>
 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 <br/>
@@ -60,11 +61,14 @@ Currently, I'm focused on expanding my experience in **Computer Vision, NLP, RAG
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/RAG-LLM%20Applications-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-8E75B2?style=for-the-badge"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
@@ -79,13 +83,14 @@ Currently, I'm focused on expanding my experience in **Computer Vision, NLP, RAG
 
 A real-time AI fitness monitoring system that uses webcam video to detect exercises, count repetitions, analyze form, and provide performance feedback.
 
-**Highlights:**
+**Highlights**
 
-* Real-time human pose detection
-* Automatic exercise classification
-* Bicep curl repetition counting
-* Exercise form-error detection
-* Modular architecture for additional exercises
+* 📷 Real-time human pose detection
+* 🤖 Automatic exercise classification
+* 🔢 Bicep curl repetition counting
+* 🎯 Exercise form-error detection
+* 📊 Performance reporting
+* 🧩 Modular architecture designed for additional exercises
 
 ---
 
@@ -95,14 +100,16 @@ A real-time AI fitness monitoring system that uses webcam video to detect exerci
 
 An AI-powered study assistant that turns lecture PDFs and PowerPoint presentations into an interactive learning experience.
 
-**Highlights:**
+**Highlights**
 
-* Document-grounded Q&A
-* Hybrid RAG using dense retrieval + BM25
-* Reciprocal Rank Fusion
-* Automatic summaries, quizzes, and flashcards
-* Page-level citations
-* Active-learning "Explain It to Me" feature
+* 💬 Document-grounded Q&A
+* 🔎 Hybrid retrieval using dense search + BM25
+* 🔀 Reciprocal Rank Fusion
+* 📝 Automatic summaries
+* 🧠 AI-generated quizzes
+* 🃏 Flashcards
+* 📚 Page-level citations
+* 🎓 Active-learning "Explain It to Me" feature
 
 ---
 
@@ -110,16 +117,17 @@ An AI-powered study assistant that turns lecture PDFs and PowerPoint presentatio
 
 **RAG · LLMs · FAISS · Sentence Transformers**
 
-A Telegram chatbot that answers questions from uploaded PDF documents using a retrieval-augmented generation pipeline.
+A Telegram chatbot that answers questions from uploaded PDF documents using a Retrieval-Augmented Generation pipeline.
 
-**Highlights:**
+**Highlights**
 
-* PDF processing and semantic retrieval
-* FAISS vector search
-* Sentence Transformer embeddings
-* LLM-powered responses
-* Automated table extraction
-* Structured customer-request workflows
+* 📄 PDF document processing
+* 🔎 Semantic retrieval with FAISS
+* 🧠 Sentence Transformer embeddings
+* 🤖 LLM-powered responses
+* 📊 Automated PDF table extraction
+* 📋 Structured customer-request workflows
+* 📁 Automated Excel logging
 
 ---
 
@@ -129,14 +137,14 @@ A Telegram chatbot that answers questions from uploaded PDF documents using a re
 
 A computer vision application for object detection and pixel-level instance segmentation using YOLOv8.
 
-**Highlights:**
+**Highlights**
 
-* YOLOv8 instance segmentation
-* 80 COCO object categories
-* Pixel-level mask generation
-* Confidence scoring
-* Adjustable detection thresholds
-* Interactive Gradio interface
+* 🎯 YOLOv8 instance segmentation
+* 🖼️ Pixel-level mask generation
+* 📊 Confidence scoring
+* 🔍 Class-based filtering
+* ⚙️ Adjustable detection thresholds
+* 🖥️ Interactive Gradio interface
 
 ---
 
@@ -146,38 +154,38 @@ A computer vision application for object detection and pixel-level instance segm
 
 An end-to-end video analytics system combining facial emotion recognition with multi-object tracking.
 
-**Highlights:**
+**Highlights**
 
-* CNN-based emotion classification
-* 7-class emotion recognition
-* IoU-based multi-object tracking
-* Live webcam support
-* Emotion tracking across frames
-* Gradio & Plotly analytics dashboard
+* 🧠 CNN-based facial emotion classification
+* 😊 7-class emotion recognition
+* 🎥 Live webcam and video processing
+* 🎯 IoU-based multi-object tracking
+* 📈 Emotion tracking across frames
+* 📊 Gradio & Plotly analytics dashboard
 
 ---
 
 ## 💼 Experience & Training
 
-### Artificial Intelligence Engineer Intern
+### 🤖 Artificial Intelligence Engineer Intern
 
 **Mountain View · 2026**
 
 Working on applied AI projects involving **Artificial Intelligence, NLP, Computer Vision, and Large Language Models**.
 
-### NLP Trainee
+### 🧠 NLP Trainee
 
 **National Telecommunication Institute (NTI) · 2026**
 
 Training in **NLP, Transformers, LLMs, Prompt Engineering, and Retrieval-Augmented Generation**.
 
-### Generative AI Training
+### 🚀 Generative AI Training
 
 **NVIDIA Deep Learning Institute · 2026**
 
 Hands-on training covering **LLMs, LangChain, NVIDIA NIM, Llama, Prompt Engineering, RAG, and AI Agents**.
 
-### Machine Learning Intern
+### 📊 Machine Learning Intern
 
 **Elevvo Pathways · 2025**
 
@@ -197,12 +205,14 @@ Worked on **data preprocessing, EDA, clustering, classification, regression, and
 
 ---
 
-## 📊 Areas of Interest
+## 🎯 Areas of Interest
 
 <p align="center">
 
 `Artificial Intelligence` · `Machine Learning` · `Computer Vision`
+
 `Natural Language Processing` · `Generative AI` · `RAG`
+
 `Large Language Models` · `Data Science`
 
 </p>
