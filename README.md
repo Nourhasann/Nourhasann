@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nour.jpg" alt="Nour Hassan" width="180"/>
+  <img src="ChatGPT Image Aug 18, 2026, 10_18_16 PM.png" alt="Nour Hassan" width="180"/>
 </p>
 
 <h1 align="center">Hi, I'm Nour Hassan 👋</h1>
